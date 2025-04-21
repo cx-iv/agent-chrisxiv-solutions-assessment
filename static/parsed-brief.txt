@@ -1,0 +1,42 @@
+Activation Content Brief
+Target Activation Dates: Al Innovate 2025 - September 17-18
+Strategy
+Product Focus:
+Showcase how Writer's Al solutions empower enterprises to optimize workflows, improve knowledge management, and enforce brand consistency through Palmyra LLMs, Knowledge Graph, and AI Guardrails.
+Content Objective:
+· Position Writer as a leader in enterprise Al by demonstrating how its generative Al platform enhances content workflows, ensures compliance, and reduces hallucinations.
+· Drive awareness and engagement around Writer's participation at Al Innovate 2025, including live demos, networking opportunities, and expert sessions.
+Key Messages & Statistics
+· Optimize enterprise workflows with Al-powered content generation, automation, and knowledge retrieval.
+· Knowledge Graph integrates data from structured and unstructured sources, reducing hallucinations and improving content accuracy.
+· Al Guardrails enforce legal, regulatory, and brand compliance across Al-generated content.
+. Trusted by leading enterprises such as Salesforce, Uber, Intuit, and Dropbox.
+Key Target Audience(s)
+· Enterprise decision-makers (CMOs, CIOs, CTOs)
+. Al strategists and innovators
+. Content and knowledge management professionals
+Hook for Content Timing
+· Al Innovate 2025 (September 17-18)
+· Major Al adoption trends in enterprise automation
+Content Outline
+Post - Organic
+· Channel: Linkedln
+· Content Topic:
+○ Spotlight Writer's presence at Al Innovate 2025.
+○ Highlight live demos and knowledge-sharing sessions showcasing AI-driven efficiency in content creation and enterprise workflows.
+Email - Outbound
+· Channel: Email
+. Content Topic:
+○ Showcase how enterprise AI adoption is evolving and why Writer is leading the way.
+○ Highlight case studies from enterprises that successfully integrated Writer's Al solutions.
+○ Spotlight Writer's presence at Al Innovate 2025.
+○ Highlight live demos and knowledge-sharing sessions showcasing AI-driven efficiency in content creation and enterprise workflows.
+Blog Post
+· Channel: Website
+. Content Topic:
+○ Showcase how enterprise AI adoption is evolving and why Writer is leading the way.
+○ Describe how Knowledge Graph integrates data from structured and unstructured sources, reducing hallucinations and improving content accuracy.
+o Highlight that Writer is trusted by leading enterprises such as Salesforce, Uber, Intuit, and Dropbox.
+○ Highlight case studies from enterprises that successfully integrated Writer's AI solutions.
+○ Spotlight Writer's presence at Al Innovate 2025.
+○ Highlight live demos and knowledge-sharing sessions showcasing AI-driven efficiency in content creation and enterprise workflows.
